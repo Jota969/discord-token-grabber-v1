@@ -19,7 +19,7 @@ Esta version solo soports windows **Windows**.
 
 <br>
 
-# Author
+# Autor
 - **Domi**
     - [Github](https://github.com/Jota969)
     - [Discord](https://dsc.gg/h4ck4fun)
